@@ -40,7 +40,6 @@ class PageController extends Controller
         ];
 
         return view('pengelolaan', [
-            'username' => $username,
             'data' => $data
         ]);
     }
