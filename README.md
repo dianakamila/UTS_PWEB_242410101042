@@ -6,7 +6,7 @@ Pengguna dapat melakukan login dengan memasukkan username, kemudian mengakses ha
 Pada halaman pengelolaan, ditampilkan daftar buku beserta statusnya seperti sudah dibaca, sedang dibaca, atau belum dibaca. 
 
 ## Fitur
-- Login (simulasi username)
+- Login
 - Dashboard
 - Profile
 - Pengelolaan buku
